@@ -50,8 +50,8 @@ Example:
 --ExternalLibs	
 ---GMS_LIB_DATA_ACCESS
 
-FROM "HERE"(10) TO "THERE"(13) can be use the Visual Studio to stage and commit all the changes to the dll (locally).
-------------------------"HERE"-------------------------------------
+<b>FROM "HERE"(10) TO "THERE"(13) can be use the Visual Studio to stage and commit all the changes to the dll (locally).</b>
+<b>------------------------"HERE"-------------------------------------</b>
 10-When you make changes to your copy of the dll, the git will treat as if it were make on the main project.
 You could use the "git status" command to show the files that had modifications.
 -----------------------------------------------------------------------------------------------
